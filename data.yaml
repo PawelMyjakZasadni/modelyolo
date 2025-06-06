@@ -1,0 +1,9 @@
+path: dataset  # folder główny z 'images' i 'labels'
+train: images/train
+val: images/val
+
+names:
+  0: Vandalism
+  1: Graffiti
+  
+  
