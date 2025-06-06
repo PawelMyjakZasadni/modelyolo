@@ -1,0 +1,2 @@
+# modelyolo
+model do vandalismu
